@@ -19,6 +19,7 @@ Criteria during the essay marking:
 6.It is not allowed to have words that have more than 4 letters of type V (find the type for each letter in Table 1).
 
 
+
 There is a secret in the essay. The problem is that it’s enciphered with a key. So, these steps should be followed:
 
 1.Calculate the key: the key for the essay is the remainder of dividing the number of points for student’s name (which is exactly the 10th word of the essay) by 26, e.g. if the 10th word is John (11 + 1 + 8 + 22 = 42), then the key is: 42 mod 26 = 16.
